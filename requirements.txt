@@ -2,3 +2,4 @@ flask
 pandas
 langchain_ollama
 langchain_core
+openpyxl
